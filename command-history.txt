@@ -1,0 +1,28 @@
+    1  gh auth status
+    2  google-chrome
+    3  sudo apt update
+    4  sudo apt upgrade
+    5  sudo apt install neofetch
+    6  sudo apt install git
+    7  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    8  sudo gdebi google-chrome-stable_current_amd64.deb
+    9  sudo gdebi ./google-chrome-stable_current_amd64.deb
+   10  sudo apt install ./google-chrome-stable_current_amd64.deb
+   11  google-chrome
+   12  clear
+   13  git --version
+   14  sudo apt install gh
+   15  gh --version
+   16  gh auth login
+   17  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   18  nvm --v
+   19  nvm install v14.15.4
+   20  node -v
+   21  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   22  ls
+   23  cd uas-komdat-24/
+   24  ls
+   25  code .
+   26  npm install
+   27  npm run start
+   28  history > command-history.txt
